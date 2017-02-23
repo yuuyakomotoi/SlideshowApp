@@ -19,7 +19,7 @@ class ViewController2: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-      imageView2.image = UIImage(named:(img))
+      imageView2.image = UIImage(named:img)
         
         // Do any additional setup after loading the view.
     }
